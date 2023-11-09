@@ -19,7 +19,7 @@
         "linux"
       ],
       "type": "",
-      "run": "test -f install.sh",
+      "run": "test -f mini.sh",
       "file": "",
       "output": "",
       "comparison": "",

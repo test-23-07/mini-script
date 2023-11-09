@@ -10,7 +10,7 @@ In dieser ersten kleinen Mini-Aufgabe erstellt ihr ein Skript, das Hello World a
  Folgt den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Drückt diese bei Bedarf, falls ihr nicht weiterkommt. 
 
 * 15 Punkte
-* 60 Minuten (Viel Erfolg!)
+* 15 Minuten (Viel Erfolg!)
 
 ---
 <ol>

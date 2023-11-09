@@ -1,4 +1,4 @@
-<img src="https://typethepipe.com/post/pydantic-enum-intenum/featured.png" alt="In dieser ersten kleinen Mini-Aufgabe erstellt ihr ein Skript, das Hello World ausgibt. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/512px-HelloWorld.svg.png" alt="In dieser ersten kleinen Mini-Aufgabe erstellt ihr ein Skript, das Hello World ausgibt. 
  Folgt den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Drückt diese bei Bedarf, falls ihr nicht weiterkommt. 
 " width="300"/>
 
